@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/drawable/background.xml" value="0.2203125" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/drawable/buttonmenu.xml" value="0.2203125" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/drawable/dzyn.xml" value="0.2203125" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_analysis.xml" value="0.1875" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_chronometer.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_denemelerim.xml" value="0.21" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_geo.xml" value="0.1875" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_geokon.xml" value="0.15787354007249296" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_konu_anlatim.xml" value="0.21" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_konular.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_krnm.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_kronmet.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_kronom.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_kronomtr.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_mat.xml" value="0.1875" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_menu.xml" value="0.18" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_menu2.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_mtkon.xml" value="0.13663297316138026" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_not_dftr.xml" value="0.22" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_nthsp.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_secenekler.xml" value="0.1875" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_time.xml" value="0.1875" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_trkckon.xml" value="0.20675105485232068" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_turkish.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/ddc24/AndroidStudioProjects/DGSMATIKKK/app/src/main/res/layout/activity_uni.xml" value="0.1598731884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

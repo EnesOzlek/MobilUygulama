@@ -1,0 +1,718 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GENEL BİLGİLER</string>
+    <string name="app_namee">KELİME ANLAMI</string>
+
+    <string name="ornekone">
+        :
+
+
+Sözcük, çoğu zaman, dilin kendi başına anlamı olan
+en küçük parçası, diye tanımlanır.Ağaç, hayal, dost gibi
+sözcükler buna örnektir. Bazı sözcükler ise tek başına
+anlam taşımayıp diğer sözcüklerle bir araya geldiğinde
+belli bir anlam ifade eder: için, gibi, göre vs.
+ÖSS’de sözcük anlamına dayalı sorular değişik soru
+biçimleriyle karşımıza çıkar. Kimileri “Aşağıdakilerden
+hangisinde altı çizili sözcük mecaz anlamıyla
+kullanılmıştır?” gibi bilgiye dayalı olduğu halde, kimileri
+“Aşağıdakilerden hangisinde “gün” sözü ötekilerden
+farklı anlamda kullanılmıştır?” gibi sözcüğün cümle
+içindeki yorumuyla ilgilidir. Hatta yoruma dayalı sorular
+sözcük anlamıyla ilgili soruların çoğunu oluşturur.
+</string>
+
+    <string name="app_nameebaslık2">GERÇEK, MECAZ VE YAN (YAKIŞTIRMA) ANLAM :</string>
+    <string name="ıkıncımetın">
+Gerçek anlam, bir sözcüğün temel anlamıdır; buna
+sözcüğün ilk akla gelen anlamı ya da sözlükteki ilk
+anlamı da denir. Bir sözcüğün diğer anlamları gerçek
+anlamından yola çıkılarak oluşturulmuştur. Örneğin
+“Burun” dendiğinde aklımıza ilk gelen, insanın bir
+organıdır. Öyleyse; “Burnundaki benler onu öyle tatlı
+gösteriyordu ki…” cümlesindeki “burun” sözü insanın
+bir organı anlamında olduğundan gerçek anlamında
+kullanılmıştır. Ancak aynı söz; “Bugünlerde burnu
+büyüdü kimseleri gözü görmüyor.” cümlesinde insanın
+bir organı anlamını vermekten çok uzaktır. Temelde bu,
+gerçek anlamdan doğmuş ancak tamamen farklı bir
+özellik kazanmıştır.
+İşte sözcüğün gerçek anlamından tamamen
+uzaklaşarak kazandığı bu anlama mecaz
+anlam diyoruz.
+Bir de sözün, çoğu kaynağın mecaz anlama dahil ettiği
+ancak mecaz anlamdan biraz farklı olması yönüyle yan
+anlam ya da yakıştırma diye de anılan bir anlamı vardır.
+Yukarıda verdiğimiz “burun” sözünü “Ayakkabımı biraz
+küçük almışım; burnu ayağımı sıkıyor.” cümlesinde ele
+alalım. Buradaki “burun” sözü gerçek anlamda değildir;
+çünkü “insanın bir organı” ifadesini taşımıyor. Tam
+olarak mecaz anlama da girmez; çünkü temelde gerçek
+anlamla yakın bir ilgisi vardır. Ayakkabının o kısmına
+burun denmesinin nedeni insanın burnuna konum
+itibariyle benzemesindendir. İşte sözcüğün, gerçek
+anlamında karşıladığı varlığa şekil benzerliğinden
+dolayı başka bir varlığa verilmesine yan anlam ya
+    da yakıştırma denir.</string>
+
+
+    <string name="app_nameebaslık3"> SOMUT VE SOYUT ANLAM :</string>
+    <string name="ucuncumetın">
+
+
+        Sözcükler varlıkları ve kavramları karşılar. Varlık, madde
+olarak bulunan yani duyu organlarıyla algılanabilen
+bir nitelik taşır. Örneğin; ağaç, yeşil, kalem gözle;
+soğuk, ıslak dokunmayla; ses, gürültü işitmeyle;
+koku koklamayla; acı, ekşi tatmayla algılanabilir. İşte
+duyu organlarımız yardımıyla algılayabildiğimiz bu
+sözcüklere somut anlamlı sözcükler denir.
+Oysa üzüntü, sevgi, özlem, hasret, rüya gibi sözcükleri
+herhangi bir duyumuzla algılayamayız; bunların sadece
+kavram olarak var olduğunu kabul ederiz. İşte bu tür
+sözcüklere de soyut anlamlı sözcükler denir.
+Bir sözcük her zaman somut olamayacağı gibi her
+zaman soyut da değildir. Bir cümlede somut olan
+sözcük başka bir cümlede soyut anlam taşıyabilir.
+Örneğin; “Bu iki çizgi arasındaki açı kırk beş derece
+vardır.” cümlesindeki “açı” sözcüğü ölçülebilen bir
+değer taşıdığından somut anlamlıdır. Aynı sözcük “
+Sen bu sorunu hangi açıdan ele aldın?” cümlesinde,
+ölçülebilen bir değer olmaktan çıkmış, mecaz anlam
+kazanarak soyut bir kavramı karşılar duruma gelmiştir.
+    </string>
+
+
+    <string name="app_nameebaslık4">  TERİM ANLAM VE EŞ ANLAMLI:</string>
+    <string name="dorduncumetın">
+Herhangi bir bilim, sanat ya da meslekle ilgili özel
+bir kavramı karşılayan sözcüklere terim denir. Yeni
+bulunan bir kavram, yeni bir terimle karşılanabileceği
+gibi, günlük hayatta kullanılan bir sözcüğe özel bir
+anlam verilerek de karşılanabilir. Örneğin “ağız”
+sözü “Adamın ağzında diş kalmamış, hala genç gibi
+davranıyor.” cümlesinde gerçek anlamında ve günlük
+kullanımıyladır. Aynı söz “İstanbul’da büyümüş; ama
+Karadeniz ağzıyla konuşuyor.” cümlesinde dilbilgisinde
+bir tanım olan “yöresel konuşmalara dilde verilen
+karşılık” anlamına gelerek bir terim oluşturmuş. Ya
+da “Irmağın ağzı toprakla dolmuştu.” cümlesinde
+olduğu gibi “ırmağın denize karıştığı yer” anlamında
+kullanılarak coğrafi bir terim olmuştur.
+
+Aynı kavramı karşılayan farklı sözcükler eş
+anlamlıdır. Örneğin “ayakkabı” sözü ile “kundura”
+sözü aynı nesneyi karşıladıkları için eş anlamlı sayılır.
+Ancak bir sözcük daima başka bir sözcükle eş anlamlı
+olmaz. Bazen aynı sözcük farklı cümlelerde eş ya da
+farklı anlamlar da taşıyabilir. Cümlenin gelişine göre
+eş anlamlılık durumu değişir. Örneğin; “Çocuğun kara
+gözleri, büyüleyiciydi.” cümlesindeki “kara” yerine
+“siyah” diyebiliriz. Ancak “Ah alnımın kara yazısı!”
+sözündeki “kara” yerine “siyah” getirilemez. Çünkü
+“kara” sözü cümlelerin ikisinde de farklı anlamlar
+veriyor. Dolayısıyla ikinci cümlede mecaz anlama
+geldiği için yerine “siyah” sözcüğünü getiremiyoruz.
+KARŞIT (ZIT) ANLAM
+Birbirine karşıt kavramları karşılayan sözcüklerdir.
+Karşıt anlamlı sözcükler iki zıt noktayı belirtirler.
+Örneğin; “güzel” sözcüğünün karşıtı “itici” olamaz
+çünkü iticilikte sevimsizlik anlamı da vardır. Oysa
+“güzel” sözü sevgiyi beraberinde ifade etmez. Bunun
+karşıtı ancak “çirkin”dir. Aynı durum eylemlerde
+de görülür. Örneğin; “sevmek” eyleminin karşıtı
+“sevmemek” değildir. Çünkü “sevmek” iyi bir duygunun
+varlığını bildirir. Sevmemekte ise bu duygunun
+bulunmadığı anlamı vardır. Oysa karşıtlıkta, olan
+duygunun tam karşıtı olmalıdır; bu da “nefret etmek”tir.
+Bu nedenle karşıtlıkla olumsuzluğun farkını görmek
+        önemlidir.</string>
+
+
+    <string name="matbır">Temel Kavramlar</string>
+
+
+    <string name="matbırmetın">
+        A. Rakam
+Sayıları ifade etmeye yarayan sembollere, rakam denir.
+Onluk sayma sisteminde kullanılan rakamlar: 0, 1, 2, 3,
+4, 5, 6, 7, 8, 9 dur.
+B. Sayı
+Bir çokluk belirtecek şeklide, rakamların bir araya
+getirilmesiyle oluşan ifadelere, sayı denir.
+Örnek:
+19, -342, ¼, -⅔, √29, π ifadeleri birer sayıdır.
+Uyarı: Her rakam bir sayıdır. Ama her sayı bir rakam
+olmayabilir.
+Örnek:
+a ve b birbirinden farklı birer rakam olmak üzere, a + b
+nin alabileceği en büyük ve en küçük değeri bulalım.
+Çözüm:
+a + b nin en büyük olması için, a ve b nin en büyük
+değeri alması gerekir. a ≠ b olduğundan ikisini de 9
+alamayız.
+O halde, a + b = 9 + 8 = 17 olur.
+a + b nin en küçük olması için, a ve b nin en küçük
+değeri alması gerekir. a ≠ b olduğundan ikisini de 0
+alamayız.
+O halde, a + b = 0 + 1 = 1 olur.
+C. Sayıların Sınıflandırılması
+1. Doğal Sayılar
+N = {0, 1, 2, 3, ...} kümesinin herbir elemanına, bir doğal
+sayı denir.
+2. Sayma Sayılar
+N+ = {1, 2, 3, ...} kümesinin herbir elemanına, pozitif
+doğal sayılar veya sayma sayılar denir.
+3. Tam Sayılar
+Z = {..., -2, -1, 0, 1, 2, ...} kümesinin herbir elemanına tam
+sayı denir.
+Burada,
+Z+ = {1, 2, 3, ...} kümesinine, pozitif tam sayılar kümesi
+denir.
+Z- = {..., -3, -2, -1} kümesine, negatif tam sayılar kümesi
+denir.
+0 tam sasyısı pozitif veya negatif değildir. Yani,
+işaretsizdir.
+O halde, Z = Z- U {0} U Z+ dir</string>
+
+    <string name="matıkı">Sayı Basamakları</string>
+
+
+    <string name="matıkımetın">
+
+        Bir doğal sayının tabanına göre aldığı değere basamak
+    değeri ve o sayının her basamağını oluşturan rakamlara
+    da basamak denir.
+    (abcde)n sayısında "n" değeri sayı tabanı ve a, b, c, d, e
+    sayı basamakları olmak üzere;
+    a, b, c, d, e basamaklarının n sayısına göre aldığı
+    değerlere basamak değeri denir.
+    Örneğin:
+    (324)10 sayısında
+    4: 100 lar basamağı (birler basmağı),
+    2: 101ler basamağı (onlar basmağı),
+    3: 102 ler basamağı (yüzler basamağı) dır.
+    Sayı okunurken sayının sayı değeri ile basmak değeri
+    bilikte okunur (üç yüz yirmi dört).
+    Eğer sayı tabanı olarak 10 yerine başka bir sayı
+    kullanılsaydı sayı basamakları birler, sekizler, altmış
+    dörtler ... olarak gidecekti.
+    Sayı Basamaklarının Özellikleri
+    Sayı yazılırken hiç bir rakam taban değerinden büyük
+    olamaz.
+    İki sayı arasında işlem yapılabilmesi için sayıların taban
+    değerleri aynı olmalıdır.
+    Sayılar toplanırken veya çarpılırken toplam taban
+    değerine eşitse 0 alınr, büyükse sayı tabanına bölünüp
+    kalan yazılır ve bölüm bir üst basamağa eklenir.
+    Sayıların basamak değeri sayının virgülün solunda
+    kalan kısmının tabanı sırayla 0, 1, 2, 3,.. gibi kuvvetleri
+    alınarak bulunurken sağında kalan kısımının basamak
+    değeri sırayla -1, -2, -3,... gibi kuvvetler alınarak bulunur.
+    Çözümleme
+    Çözümleme işlemi yapılırken her sayının sayı değeri ile
+    basamak değeri çarpılarak ayrıştırılır.
+    a, b, c, d sayıları n sayı tabanından küçük olmak
+    üzere (abcd)n sayısının
+    n: taban değeri
+    d: n0 lar basamağı
+    c: n1 ler basamağı
+    b: n2 ler basamağı
+    a: n3 ler basamağı
+    olduğuna göre
+    (abcd)n = d.n0 + c.n1 + b.n2 + a.n3 dür.
+    Herhangi Bir Sayı Tabanındaki Sayıyı 10 Tabanına
+    Dönüştürme
+    Bu işlem yapılırken çözümleme işleminden faydalanılır.
+    Bir sayıyı 10 tabanına dönüştürmek için sayı tabanına
+    göre çözümlenir, yani; sayıyın her basamağındaki
+    rakam basamak değeriyle çarpılıp toplanır, çıkan sonuç
+    o sayının 10 tabanındaki karşılığıdır.
+    Örnek:
+    (425)7 sayısının 10 tabanındaki karşılığını bulalım.
+    Çözüm:
+    (425)7 = (5.70 + 2.71 + 4.72)10
+    = (5 + 14 + 196)10
+    = (215)10 dir.
+    10 Tabanındaki Bir Sayıyı Herhangi Bir Tabana
+    Dönüştürme
+    10 tabanında verilen bir sayı, başka bir tabana
+    çevrilirken, verilen sayı ardışık olarak istenen tabana
+    bölünür. Bu bölme işlemine bölüm 0 olana kadar
+    devam edilir. En son elde edilen kalan, istenen sayının
+    solundaki rakam olacak şekilde, kalanlar sırasıyla
+    sayının rakamlarını oluşturur. Bu işlem bir sayının
+    istenen tabanda çözümleme işlemidir.
+    Örnek:
+    (612)10 sayısını 9 tabanındaki karşılığını bulalım.
+    Çözüm:
+    (612)10 = (7.92 + 5.91 + 0.90)9
+    = (750)9 dir.
+    Herhangi Bir Tabanda Verilen Bir Sayının Başka Bir
+    Tabana Dönüştürülmesi
+    Herhangi bir sayı tabanındaki bir sayıyı bir başka
+    tabana dönüştürmek için öncelikle sayı o tabana
+    göre .çözümlenip 10 tabanına dönüştürülür. Sonra 10
+    tabanındaki bu sayı dönüştürülmek istenen tabana
+    gerekli işlemler uygulanılarak dönüştürülür. Bu işlem bir
+    açma - kapatma işlemine benzetilebilir.
+    Örnek:
+    (213)4 sayısının 5 tabanındaki karşılığını bulalım.
+    Çözüm:
+    Önce çözümleme işlemi yaparak sayının 10
+    tabanındaki karşılığını buluyoruz.
+    (213)4 = (3.40 + 1.41 + 2.42)10
+    = (3 + 4 + 32)10
+    = (39)10
+    Şimdi 10 tabanında karşılığını bulduğumuz bu sayıyı
+    istenen tabana dönüştürüyoruz.
+    (39)10 = (1.52 + 2.51 + 4.50)5
+    = (124)5
+    Not: 10 tabanındaki bir sayıyı hangi sayıya göre
+    çözümleresek o sayı tabanındaki karşılığını bulmuş
+    oluruz.
+    Herhangi Bir Tabana Göre İşlemler
+    İki sayı arasında herhangi bir işlem yapılabilmesi
+    için öncelikle her iki sayının tabanlarının aynı olması
+    gerekmektedir. Eğer aynı değilse bu sayıların aynı
+    tabandaki karşılığı bulunduktan sonra aralarında işlem
+    yapılabilir.
+    Örnek:
+    (45)9 + (423)5 işleminin sonucunun 3 tabandaki
+    karşılığı kaçtır?
+    Çözüm:
+    (45)9 = (4.9 + 5.1)10
+    = (41)10
+    (423)5 = (4.25 + 2.5 + 3.1)10
+    = (113)10
+    (41)10 + (113)10 = (154)10
+    (154)10 = (1.81 + 2.27 + 2.9 + 0.3 + 1.1 )3
+        = (12201)3 dir.</string>
+
+
+    <string name="matuc">Bölme Bölünebilme</string>
+
+
+    <string name="matucmetın">A) Bölme
+    a, b, c, d, ve k birer doğal sayı, b ≠ 0 olmak üzere,
+    Bölme işleminde;
+    a : bölünen
+    b : bölen
+    c : bölüm
+    k : kalan ise
+    a = b.c + k biçiminde gösterilir.
+    Bir bölme işleminde;
+    k  dir.
+    k = 0 ise a sayısı b sayısına tam olarak bölünür.
+    Kalan bölümden küçük ise bölen ile bölümün yerlerinin
+    değiştirilmesi kalanı değiştirmez.
+    B) Bölünebilme Kuralları
+    Burada sırasıyla 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ve 25 ile
+    bölünebilme kuralları verilmiştir.2 ile bölünebilmeHer
+    çift sayı 2 ile tam bölünür. Tek sayılar 2 ile tam
+    bölünemeyip 1 kalanını verir.
+    3 ile bölünebilme
+    Rakamlarının toplamı 3 ün katı olan sayı 3 ile tam
+    bölünür. Kalan, rakamlar toplamının 3 ile bölümünden
+    kalana eşittir.4 ile bölünebilmeBir sayının son iki
+    basamağı 4 ün katı ise bu sayı 4 e tam bölünür. Kalan
+    son iki basamağında belirtilen sayının 4 ile bölümüne
+    eşittir.5 ile bölünebilmeBir sayının son rakamında 0
+    veya 5 bulunuyorsa o sayı 5 ile tam bölünür. Aksi halde
+    kalan son basamağın 5 ile bölümünden kalana eşittir.6
+    ile bölünebilme
+    Eğer bir sayı 2 ve 3 e tam bölünüyorsa 6 ya da tam
+    bölünür.
+    7 ile bölünebilme
+    1, 3 ve 2 sayıları bir sayının sırasıyla birler, onlar ve
+    yüzler basamağıyla sırayla çarpılır. Çıkan üçlü grupların
+    toplamlarının farkı, o sayının 7 ile bölümünden kalana
+    eşittir.
+    8 ile bölünebilmeBir sayının son üç basamağının
+    oluşturduğu sayı 8 ile tam bölünüyorsa o sayı 8 ile
+    tam bölünür. Kalan o sayının son üç basamağının
+    oluşturan sayının 8 ile bölümünden kalana eşittir.9
+    ile bölünebilme Rakamlarının toplamı 9 un katı olan
+    sayı 9 ile tam bölünür. Kalan, rakamlar toplamının 9ile
+    bölümünden kalana eşittir.10 ile bölünebilme
+    Bir sayının son rakamı 0 ise o sayı 10 ile tam bölünür.
+    Değil ise o sayının 10 ile bölümünden kalan, o sayının
+    son (birler) basamağındaki rakama eşittir.
+    11ile bölünebilme
+    abcdef gibi bir sayının 11 ile bölümünden kalanı
+    bulmak için birler basamağından itibaren birer
+    atlanarak toplanır. Çıkan iki ayrı değerin farkının 11 ile
+    bölümünden kalan, sayının 11 ile bölümünden kalana
+    eşittir.
+    25 ile bölünebilme Bir sayının son iki basamağındaki
+    sayı 25 in katıysa o sayı 25 ile tam bölünür. Aksi
+    durumda son iki basamağından oluşan sayının 25 ile
+    bölümünden kalan, o sayının 25 ile bölümünden kalana
+    eşittir.
+    Uyarı: Aralarında asal sayılara tam bölünebilen bir sayı
+    bu sayıların çarpımına da tam bölünür.
+    2 ve 3 ile bölünebilen sayılar 6 ile,
+    2 ve 5 ile bölünebilen sayılar 10 ile,
+    3 ve 4 ile bölünebilen sayılar 12 ile,
+    3 ve 5 ile bölünebilen sayılar 15 ile,
+    2 ve 9 ile bölünebilen sayılar 18 ile,
+    4 ve 5 ile bölünebilen sayılar 20 ile,
+    2 ve 11 ile bölünebilen sayılar 22 ile,
+    3 ve 8 ile bölünebilen sayılar 24 ile,
+    4 ve 9 ile bölünebilen sayılar 36 ile,
+    5 ve 9 ile bölünebilen sayılar 45 ile,
+    C) Bir Doğal Sayının Tam Bölenleri
+    1. Bir Doğal Sayının Çarpanlarına Ayrılması
+    Örnek:
+    120 sayısının asal çarpanlarını bulalım.
+    Çözüm:
+    120 = 23.3.5 tir.
+    120 nin asal çarpanları 2, 3, ve 5 tir.
+    2. Bir Doğal Sayının Tam Bölenlerinin Sayısı
+    Bir A sayısının asal çarpanlarına ayrılmış şekli;
+    A = xa.yb.zc olsun.
+    A sayısının pozitif tam bölenlerinin sayısı = (a + 1)(b +
+    1)(c + 1) dir.
+    A sayısının tam sayı bölenlerinin sayısı = 2.(a + 1)(b + 1)
+    (c + 1) dir.
+    A sayısının tam sayı bölenlerinin toplamı sıfırdır.
+    A sayısının asal bölenlerinin sayısı 3 tür. Bunlar x, y, z
+        dir.</string>
+
+
+    <string name="matbes">Ebob Ekok</string>
+
+
+    <string name="matbesmetın">
+        Ebob, ekok ifadeleri ancak birbirinden farklı en az iki
+    doğal sayı için söz konusu olabilir. Çünkü ortak bölenin
+    olabilmesi için birden fazla sayı olması gerekir.
+    Ekok (En Büyük Ortak Kat): Birbirinden farklı en az iki
+    doğal sayıyı ortak bölebilen en küçük sayıya en küçük
+    ortak kat denir. Ekok şeklinde gösterilir.
+    Örnek:
+    4 ve 6 nın ekok u 12 dir.
+    Ebob (En Büyük Ortak Bölen): Birbirinden farklı iki
+    doğal sayıyı ortak bölebilen en büyük sayıya en büyük
+    ortak bölen denir. Ebob ile gösterilir.
+    Örnek:
+    6 ve 9 un ebob u 3 dür.
+    Ebob ve Ekok un Özellikleri
+    A ile B iki doğal sayı ve
+    ekok (A, B) dir.
+    A ve B iki doğal sayı ise A.B = ebob (A, B).ekok (A, B)
+    dir.
+    A ve B aralarında asal iki doğal sayı ise bu sayıların
+    ebob(A, B) = 1 olduğu için ekok(A, B) = A.B olur.
+    Örnek:
+    Boyutları 6 cm, 9 cm ve 15 cm olan bir diktörgenler
+    prizması şeklinde olan kutulardan, bir küp elde
+    edebilmek için en az kaç tane kutu kullanmamız
+    gerekiyor.
+    Çözüm:
+    Kutulardan bir küp oluşturduğumuza göre küpün
+    boyutları kutunun boyutlarının ortak katı olması
+    gerekir. En az kaç kutu kullanmamızı istediğne göre, en
+    küçük ortak katı bulmamız gerekir.
+    Ekok(6, 9, 15) = 90 dır.
+    Buna göre küpün bir kenarı 90 cm olmalıdır.
+    Küpün oluşabilmesi için 6 cm boyuttan 15 tane, 9
+    cm boyuttan 10 tane ve 15 cm lik boyuttan 6 adet
+    kullanılması gereklidir.
+    Yani küp oluşturulabilmesi için 15.10.6 = 900 adet kutu
+        gereklidir.</string>
+
+    <string name="matdort">Mutlak Değer</string>
+
+
+    <string name="matdortmetın">
+        Bir sayının, sayı sayı doğrusunda belirttiği noktanın
+    uzaklığına, bu sayının mutlak değeri denir.
+    a ≥ 0 ise, |a| = a
+    a 0 ise, |a| = -a dır.
+    * |a| ≥ 0
+    Mutlak Değerin Özellikleri
+    Mutlak değer her zaman 0 a eşit veya 0 dan büyüktür.
+    Negatif olmaz. |a| ≥ 0 dır.
+    Mutlak değerin içi eğer negatifse sayıyı mutlak değerin
+    dışına çıkartırken sayının pozitif olması için (-) işaretiyle
+    çarpılır. |-5| = - (-5) = 5 dir.
+    Ayrı ayrı mutlak değerler içinde çarpılan sayıları tek
+    mutlak değer içinde çarpabiliriz. |a|.|b| = |a.b|
+    Mutlak değer içerisinde yapılan toplama ve çıkarma
+    işlemlerini mutlak değer dışına çıkartıp ayrı ayrı
+    toplayıp yada çıkartamayız. |a| + |b| ≠ |a + b| , |a - b| ≠ |a|
+    - |b|
+    Mutlak değer içerisinde yapılan bir toplama işlemi,
+    bu sayıların ayrı ayrı mutlaklarının toplamından büyük
+    olamaz. |a + b| ≤ |a| + |b| dir.
+    Mutlak değerin içinden yada dışından kuvvet alınması
+    değeri değiştirmez. |an| = |a|n dir.
+    Örnek:
+    x  0  ise
+    |x - y| + |x| - |y|
+    ifadesinin eşitini bulalım.
+    Çözüm:
+    Mutlak değer sorularında dikkat etmemiz gereken en
+    önemli şey mutlak değerin içini pozitif mi yoksa negatif
+    mi olduğudur. Eğer mutlak değerin içi pozitifse direk
+    dışarı çakarken negatif olması durumunda (-) işaretiyle
+    çarpıp çıkartırız.
+    x - y  0, x 0 y > 0 olduğuna göre
+    |x - y| + |x| - |y| = -(x - y) + (- x) - y
+    = -x + y - x - y
+        = -2x olur.</string>
+
+
+    <string name="geobır">GEOMETRİK KAVRAMLAR</string>
+
+
+    <string name="geobırmetın">
+
+    Geometride “Nokta”, “Doğru”, “Düzlem” gibi kavramlar
+    tanımsız olarak kabul edilir.
+    1. Nokta: “.” biçiminde gösterilir. Boyutu yoktur.
+    2. Doğru: İki uçtan sınırsız noktalar kümesidir.
+    3. Düzlem: Her yönde sonsuza giden noktalar
+    kümesidir.
+    E düzlemi dört yönde de sonsuza kadar gider.
+    E düzlemi yandaki gibi gösterilir.
+    4. Doğru Parçası : İki nokta ile bu iki nokta arasında
+    kalan noktaların birleşimidir.
+    [AB] sembolüyle gösterilir.
+    [AB] ® AB doğru parçası
+    |AB| ® AB doğru parçasının uzunluğu
+    5. Işın : Bir başlangıç noktası olup sonsuza giden
+    noktalar kümesidir.
+    [AB ® AB ışını
+    6. Yarı Doğru: [AB ışınından A noktasının çıkarılması ile
+    elde edilen kümeye AB yarıdoğrusu denir.
+    ]AB sembolüyle gösterilir.
+    Doğrusal nokta kümelerinin gösterimi
+    [AB]: A ve B noktaları dahil.[AB[: A noktası dahil, B
+        noktası dahil değil]AB[: A ve B noktaları dahil değil</string>
+
+
+    <string name="geoıkı">AÇILAR</string>
+
+
+    <string name="geoıkımetın">
+
+    Başlangıç noktaları ortak iki ışının birleşimine açı denir.
+    şekilde [AC ve [AB ışınının oluşturduğu açı BAC
+    açısıdır.
+    [ABÈ[AC = BAC açısıdır.BAC, CAB olarak veya A
+    ilegösterilir.[AB ve [AC ışınları açının kenarları,
+    A noktası açının köşesidir.
+    Açı yazılırken açının köşesi olan nokta ortada yazılır.
+    1. Açının Ölçüsü
+    [AB ile [AC arasındaki açıklığın ifadesine açının
+    ölçüsüdenir. BAC açısının ölçüsü a dır.m(BAC) = a veya
+    m(A) = a olarak gösterilir.
+    ölçüleri eşit olan açılara eş açılar denir.
+    2. Açının Düzlemde Ayırdığı Bölgeler
+    Bir açı düzlemi üç bölgeye ayırır.a. Açının kendisi
+    [AB ve [AC ışınları.
+    b. İç bölge (taralı alan)
+    c. Dış bölge
+    3. Açı ölçü birimleri
+    Açı ölçüsü birimi olarak genelde derece kullanılır.
+    Dereceden başka Grad ve Radyan birimleri de kullanılır.
+    Açı ölçüsü birimleri arasında,
+    360° = 400 G(grad) = 2p (radyan) eşitliği vardır.
+    Bir ışının başlangıç noktası etrafında bir tur
+    döndürülmesi ile elde edilen açı 360° dir.
+    Derecenin alt birimleri
+
+    Paralel doğrular arasında birden fazla kesenin olduğu
+    durumlarda kesişim noktalarından yeni paraleller çizilir.
+    e. Birden fazla kesenli durumlar
+    d1 // d2 iseB noktasından d1 ve d2doğrularına paralel
+    çizersek m(ABC) = a + b olur.
+    B noktasından paralel çizersek m(ABD) + x =
+    180°m(DBC) + z = 180° buradan
+    x + y + z = 360° dir.
+    f. Paralel doğrular arasındaki ardışık zıt yönlü açılar
+    d1 // d2 ise a + b + c = x + y olur.Bu tür soruları kırılma
+    noktalarından paraleller
+    çizerek de çözebiliriz.
+    g. Kolları paralel ve kolları dik açılar
+    Açıları oluşturan ışınlar aynı yönde ve paralel ise bu iki
+    açının ölçüsü eşittir.
+    Açıları oluşturan ışınlar zıt yönlü ve paralel ise bu iki
+    açının ölçüsü eşittir.
+    Açıları oluşturan ışınlardan biri aynı diğeri zıt yönlü ve
+    paralel ise bu iki açının ölçüleri toplamı;a + b = 180°
+    olur.
+    Kenarları birbirine dik karşılıklı iki açının ölçüleri
+    toplamıa + b = 180° olur.
+    Kenarları şekildeki gibi birbirine dik açıların ölçüleri
+        eşittir.</string>
+
+
+    <string name="geouc">ÜÇGENDE AÇIORTAYLAR</string>
+
+
+    <string name="geoucmetın">
+
+    1. Üçgende iç açıortaylar bir noktada kesişirler. Bu
+    nokta üçgenin içteğet çemberinin merkezidir.
+    Açıortayların kesiştiği noktadan kenarlara çizilen
+    dikmelerin uzunluklarıeşittir. (Çemberin yarıçapı)
+    2. Üçgende iki dış açıortay ile üçüncü iç açıortay bir
+    noktada kesişirler. Bu nokta üçgenin dıştan teğet
+    çemberlerinden birinin merkezidir. (Üç dış teğet
+    çember vardır.)
+    [AD], [BD] ve [CD] açıortaylarından herhangi ikisi
+    verildiğinde üçüncüsünün de kesinlikle açıortaydır.
+    3. iki iç açıortayın kesişmesiyle oluşan açı; ABC
+    üçgeninde ve BDC üçgeninde iç açılar toplamı
+    yazılırsa
+    4. iki dış açıortayın kesişmesiyle oluşan açı; ABC
+    üçgeninin dış açılar toplamıve BDC üçgeninin iç açılar
+    toplamını yazarsak
+    5. Bir iç açıortay ile bir dış açıortayın kesişmesiyle
+    oluşan açı,
+    ABC üçgeninin C açısının dış açıortayı ile B açısının iç
+    açıortayı arasındaki açının ölçüsü A açısının ölçüsünün
+    yarısıdır.
+    Burada D noktası dış teğet çemberlerden birinin
+    merkezi olduğundan, A dan çizilen dış açıortayda D
+    noktasından geçer.
+    6. Açıortayla yükseklik arasında kalan açı; ABC
+    üçgeninde [AD] A açısına ait açıortay ve [AH]
+    yüksekliktir.
+    Açıortayla yükseklik arasındaki açıya m(HAD) = x
+    dersek
+    Bir açı ve açıortayını başka bir doğrunun kestiği
+    durumlarda dış açı özelliği kullanılarak bütün açılar
+        bulunabilir.</string>
+
+
+    <string name="geodort">Açı-kenar Bağıntıları:</string>
+
+
+    <string name="geodortmetın">
+
+    Bir üçgende ölçüsü büyük olan açının karşısındaki
+    kenar uzunluğu, ölçüsü küçük olan açının karşısındaki
+    kenar uzunluğundan daha büyüktür
+    .
+    ABC üçgeninde m(A) > m(B) > m(C)
+    a > b > c
+    Terside geçerlidir. Uzun kenarı gören açı kısa kenarı
+    gören açıdan daha büyüktür.
+    İkizkenar üçgenden de bildiğimiz gibi eşit açıların
+    karşılarındaki kenarlar eşittir.
+    m(B) = m(C) => |AB| = |AC|m(A) B) = m(C) ise
+    |BC| |AB| = |AC| olur.
+    Bir üçgende bir tane geniş açı olabileceğinden geniş
+    açının karşısındaki kenar daima en büyük kenar olur.
+    2. Bir üçgende herhangi bir kenarın uzunluğu diğer iki
+    kenarın uzunlukları toplamından küçük farkının mutlak
+    değerinden büyüktür.ABC üçgeninde
+    lb – c l  (b + c)
+    Diğer kenarlar için de aynı durum geçerlidir.
+    |a – c| (a + c) ve |a – b (a + b) olur.
+    3. Dik, dar ve geniş açılı üçgenlerde kenarlar arasındaki
+    ilişkiler.a. Bir dik üçgende
+    kenarlar arasında
+    a2 = b2 + c2 bağıntısı vardır.
+    b. Dar açılı üçgenb ve c sabit tutulup A açısı
+    küçültülürse a da küçülür.
+    m(A)  + c3
+    c. Geniş açılı üçgen b ve c sabit tutulup A açısı
+    büyütülürse a da büyür.
+    m(A) 90° Û a2 > b2 + c3
+    4. Çeşitkenar bir üçgende aynı köşeden çizilen
+    yükseklik, açıortay ve kenarortay uzunluklarının
+    sıralanması,
+    |AH| = ha ; yükseklik
+    |AN| = nA ; açıortay
+    |AD| = Va ; kenarortay
+    ha
+    5. Çeşitkenar bir üçgende, açı, açıortay, kenarortay ve
+    yükseklik arasındaki sıralama;
+    ABC üçgeninde a, b, c kenar uzunluklarıdır.m(A) > m(B)
+    > m(C) olduğuna varsayalım.
+    Bu durumda üçgende
+    kenarlar : a > b > c
+    yükseklikler :
+
+    6. Bir kenarları ortak olan içiçe iki üçgenden içtekinin
+    çevresi daha küçük olur.
+    |BD| + |DC| |AB| + |AC|
+    ABCD bir dörtgen, a, b, c, d kenar uzunlukları [AC] ve
+    [BD] köşegenlerdir.
+    ABCD dörtgeninde karşılıklı kenarların uzunlukları
+    toplamı, köşegenlerin uzunlukları toplamından
+    küçüktür.
+    a + c  |AC| + |BD| ve b + d  |AC| + |BD|
+    köşegen uzunlukları toplamı çevreden daha büyük ve
+    çevrenin yarısından daha küçük olamaz.
+    İç içe şekillerde içteki şeklin çevresi daha küçük
+    olacağından
+    |DA| + |AB| + |BC|
+    toplamı |DE| + |EF| + |FC|
+    toplamından daha büyüktür.
+    7. ABC üçgeninin içindeki herhangi bir P noktası için;|
+    AP| + |BP| + |CP|
+    toplamı ABC üçgeninin çevresinden büyük, çevresinin
+    yarısından küçük olamaz.
+    Burada
+        ve Çevre değerleri sınır değer değildir.</string>
+
+
+    <string name="button">Button</string>
+
+    <string name="baslık" />
+    <string name="app_nameebaslık1" />
+
+
+    <string name="bone">BİLGİSAYAR PROGRAMCILIĞI BÖLÜMLERİ</string>
+
+    <string name="unıone">Bilgisayar Mühendisliği
+Bilgisayar Bilimleri
+Bilgisayar Teknolojisi ve Bilişim Sistemleri
+Bilişim Sistemleri Teknolojileri
+Endüstri Mühendisliği
+Bilgisayar ve Öğretim Teknolojileri Öğretmenliği
+Bilgisayar ve Yazılım Mühendisliği
+Bilgisayar-Enformatik
+Bilişim Sistemleri Mühendisliği
+İstatistik
+İstatistik ve Bilgisayar Bilimleri
+Kontrol ve Otomasyon Mühendisliği
+Fizik
+Fizik Mühendisliği
+Matematik ve Bilgisayar Bilimleri
+Matematik-Bilgisayar
+Meteoroloji Mühendisliği
+Uzay Mühendisliği
+Yazılım Mühendisliği</string>
+
+    <string name="btwo">BİLGİSAYAR PROGRAMCILIĞI AÇIK ÖĞRETİM BÖLÜMLERİ</string>
+
+    <string name="unıtwo">Bilgisayar Mühendisliği
+Bilgisayar Bilimleri
+Bilgisayar Teknolojisi ve Bilişim Sistemleri
+Bilişim Sistemleri Teknolojileri
+Endüstri Mühendisliği
+Bilgisayar ve Öğretim Teknolojileri Öğretmenliği
+Bilgisayar ve Yazılım Mühendisliği
+Bilgisayar-Enformatik
+Bilişim Sistemleri Mühendisliği
+İstatistik
+İstatistik ve Bilgisayar Bilimleri
+Kontrol ve Otomasyon Mühendisliği
+Fizik
+Fizik Mühendisliği
+Matematik ve Bilgisayar Bilimleri
+Matematik-Bilgisayar
+Meteoroloji Mühendisliği
+Uzay Mühendisliği
+Yazılım Mühendisliği</string>
+
+
+
+    <string name="x">----------------------------</string>
+</resources>
